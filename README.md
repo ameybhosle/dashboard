@@ -1,0 +1,1 @@
+use dividers(https://mui.com/material-ui/react-divider/) or Lists inside active interactions
